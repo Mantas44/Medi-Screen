@@ -1,0 +1,2 @@
+include ':app', ':mediscreen-0.0.1-SNAPSHOT'
+rootProject.name='patient_app'

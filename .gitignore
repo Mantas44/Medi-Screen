@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Patient Medi-Screen</string>
+    <string name="sign_page">Sign In</string>
+    <string name="hint">Enter Email</string>
+    <string name="hint1">Enter Password</str
